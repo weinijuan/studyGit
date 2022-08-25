@@ -10,7 +10,7 @@ git练习使用
 #### 安装教程
 
 1.  haha
-2.  xxxx
+2.  typora
 3.  xxxx
 
 #### 使用说明
