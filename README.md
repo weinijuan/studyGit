@@ -9,7 +9,7 @@ git练习使用
 
 #### 安装教程
 
-1.  xxxx
+1.  haha
 2.  xxxx
 3.  xxxx
 
